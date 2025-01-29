@@ -6,3 +6,11 @@
 •	Incorporated features prompting users to select pollution types and confirm search entries for enhanced usability.
 
 •	The program generates a color-coded bar graph displaying pollution levels for the specified year or a range from 2000 to 2021. Additionally, it includes a legend featuring the Air Quality Index for clarity and ease of interpretation.
+
+![image](https://github.com/user-attachments/assets/c838e8ad-042f-4e97-88f6-cd1dffd8d7dd)
+
+![image](https://github.com/user-attachments/assets/266ad8a9-49d8-49ce-8589-913bb71e746c)
+
+![image](https://github.com/user-attachments/assets/1d29380f-43ed-4b29-a03c-07e4f1d1a5c6)
+
+![image](https://github.com/user-attachments/assets/ebabf67a-9a7f-4f01-83a6-14c6e3a00f74)
